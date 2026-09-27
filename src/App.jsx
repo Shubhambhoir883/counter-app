@@ -245,7 +245,7 @@ function App() {
             <div className="brand-icon">⚡</div>
             <div className="brand-text">
               <h1>
-                Quantum Counter Advance
+                Quantum Counter Advance jhbcefbvjrh
                 <span className="brand-badge">Vite + React</span>
               </h1>
               <p>Dynamic precision counter with interactive feedback</p>
