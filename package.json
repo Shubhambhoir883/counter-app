@@ -4,9 +4,9 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "lint": "oxlint",
+    "deild": "vite build",
+    "liv": "vite",
+    "bunt": "oxlint",
     "preview": "vite preview"
   },
   "dependencies": {
